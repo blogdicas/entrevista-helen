@@ -1393,15 +1393,10 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
   border-top-color: #149dcc;
 }
-.cid-rnPVvohGyz {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
 .cid-rwtZUgpaxc {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #55b4d4;
 }
 .cid-rwtZUgpaxc .line {
   background-color: #149dcc;
@@ -1421,31 +1416,34 @@ body {
     width: 100% !important;
   }
 }
-.cid-rnPVBi1kkE {
+.cid-rwtZUgpaxc .section-text B {
+  color: #ffffff;
+}
+.cid-rnPVvohGyz {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rywHgXfnJQ {
   background: #ffffff;
   padding-top: 0px;
   padding-bottom: 0px;
 }
-.cid-rnPVBi1kkE .image-block {
+.cid-rywHgXfnJQ .image-block {
   margin: auto;
 }
-.cid-rnPVBi1kkE figcaption {
+.cid-rywHgXfnJQ figcaption {
   position: relative;
 }
-.cid-rnPVBi1kkE figcaption div {
+.cid-rywHgXfnJQ figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-rnPVBi1kkE .image-block {
+  .cid-rywHgXfnJQ .image-block {
     width: 100% !important;
   }
-}
-.cid-rw2CTPbhWd {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
 }
 .cid-rvWx7KEsxO {
   padding-top: 30px;
